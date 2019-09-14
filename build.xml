@@ -10,7 +10,7 @@
         <javac srcdir="src" destdir="build/classes"/>
         
         <!--运行-->
-        <java classname="helloword">
+        <java classname="helloworld">
             <classpath>
                 <pathelement path="build/classes"/>
             </classpath>
